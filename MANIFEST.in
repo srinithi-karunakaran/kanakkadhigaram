@@ -7,6 +7,7 @@ include LICENSE
 include MANIFEST.in
 include CONTRIBUTING.md
 include CHANGELOG.md
+include USECASES.md
 
 # Configuration files
 include pyproject.toml
