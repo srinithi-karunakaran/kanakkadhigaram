@@ -1,0 +1,49 @@
+# MANIFEST.in for Kanakkadhigaram
+# Specifies additional files to include in source distributions
+
+# Documentation files
+include README.md
+include LICENSE
+include MANIFEST.in
+include CONTRIBUTING.md
+include CHANGELOG.md
+
+# Configuration files
+include pyproject.toml
+include .gitignore
+
+# Package files
+recursive-include kanakkadhigaram *.py
+recursive-include kanakkadhigaram *.md
+recursive-include kanakkadhigaram *.txt
+
+# Test files
+recursive-include tests *.py
+recursive-include tests *.txt
+recursive-include tests conftest.py
+
+# Development files
+include Makefile
+include tox.ini
+include .pre-commit-config.yaml
+
+# Documentation source (if applicable)
+recursive-include docs *.rst
+recursive-include docs *.md
+recursive-include docs Makefile
+
+# Type hints
+recursive-include kanakkadhigaram py.typed
+
+# Exclude unwanted files
+global-exclude __pycache__
+global-exclude *.py[cod]
+global-exclude *.so
+global-exclude .DS_Store
+global-exclude .pytest_cache
+global-exclude .mypy_cache
+global-exclude .coverage
+global-exclude htmlcov
+global-exclude dist
+global-exclude build
+global-exclude *.egg-info
