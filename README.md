@@ -280,9 +280,7 @@ For issues, questions, or suggestions:
 
 ## References
 
-- Original Kanakkadhigaram text (10th century)
-- Tamil mathematical history resources
-- Classical computation method references
+- Saraswathi Mahal Library, Kanakkadhigaram (Thoguppu Nool). Thanjavur: Saraswathi Mahal Library, 1998. [Online]. Available: https://tamildigitallibrary.in/Articles/நூல்-8346-கணக்கதிகாரம்-%28தொகுப்பு%20நூல்%29
 
 ---
 
