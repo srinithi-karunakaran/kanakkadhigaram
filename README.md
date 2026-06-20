@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Package Version](https://img.shields.io/badge/version-0.1.0-orange)](https://pypi.org/project/kanakkadhigaram/)
+[![Package Version](https://img.shields.io/badge/version-0.1.1-orange)](https://pypi.org/project/kanakkadhigaram/)
 
 A Python library encoding ancient Tamil mathematical systems from the classical text **Kanakkadhigaram** (கணக்காதிகாரம்). This package preserves and makes accessible the mathematical knowledge of medieval Tamil scholars, transforming centuries-old computational methods into modern, usable Python code.
 
