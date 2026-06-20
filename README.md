@@ -8,7 +8,7 @@ A Python library encoding ancient Tamil mathematical systems from the classical 
 
 ## About Kanakkadhigaram
 
-The **Kanakkadhigaram** is a 10th-century Tamil mathematical text covering practical arithmetic, measurement, agriculture, trade, astronomy, and cosmology. This library systematically implements the mathematical operations, unit conversions, and calculation methods described in this classical work, enabling both cultural preservation and practical computation.
+The **Kanakkadhigaram** is a classical Tamil mathematical text covering practical arithmetic, measurement, agriculture, trade, astronomy, and cosmology. This library systematically implements the mathematical operations, unit conversions, and calculation methods described in this classical work, enabling both cultural preservation and practical computation.
 
 ## Features
 
