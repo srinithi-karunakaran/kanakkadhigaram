@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.1] - 2026-06-20
 
 ### Changed
-- Updated `README.md` with a more historically cautious description of Kanakkadhigaram.
+- Updated `README.md` with improved description of Kanakkadhigaram
 - Clarified the scope of the library and its focus on classical Tamil mathematical systems.
 - Improved project documentation wording. 
 
